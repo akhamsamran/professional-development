@@ -1,0 +1,23 @@
+html {
+	background-color: rgba(50,50,0,.2);
+	font-size: 16px;
+	font-family: 'Helvetica neue', Arial, 'sans serif';
+}
+
+
+
+h2 {
+	background-color: rgba(30,60,0,.2);
+}
+
+h3 {
+	background-color: rgba(30,75,0,.1);
+}
+
+ul {
+	color: #4c4a42;
+}
+
+ol {
+	color: #4c4a42;
+}
